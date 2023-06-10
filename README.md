@@ -1,5 +1,6 @@
-# 此仓库主要放置个人主页，欢迎star支持，谢谢
+# This warehouse mainly placed personal home page
+# Welcome star support me, thanks!
+My Homepage：https://lil-sum.github.io/SZsum-Profile/
 
-个人主页访问网址：https://lil-sum.github.io/SZsum-Profile/
-
-个人博客访问网址：https://lil-sum.github.io/
+My Blog：https://lil-sum.github.io/
+Contacts:1244675628@qq.com
