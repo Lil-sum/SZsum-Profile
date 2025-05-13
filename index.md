@@ -2,7 +2,7 @@
 
 
 # Personal Info
-## Contact：1244675628@qq.com
+## Contact：xsum0755@163.com
 ## Residence：CN_SZ(中国 深圳)
 
 - I'd like to share my project experience on github.
